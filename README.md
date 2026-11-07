@@ -1,6 +1,6 @@
 # Mejora FirstScreen — versión clara
 
-Presentación completa de 25 diapositivas. Fondo blanco con degradé celeste suave, texto oscuro y acentos azules. Sin números de página ni aclaraciones pequeñas en el lienzo.
+Presentación completa de 41 diapositivas. Fondo blanco con degradé celeste suave, texto oscuro y acentos azules. Sin números de página ni aclaraciones pequeñas en el lienzo.
 
 ## Abrir
 
@@ -26,7 +26,7 @@ Después elegí «Descargar HTML con imágenes». El archivo descargado incluye 
 
 La frase central aparece después de la portada y vuelve antes de las preguntas. Tiempo y dinero se explican por separado. Las etapas del proceso aparecen progresivamente. Arquitectura y metodología usan lenguaje natural; el detalle técnico original se conserva en las notas.
 
-Los cálculos y referencias están en `guion-y-notas.md` y en N. En Canva, las 2.500 postulaciones figuran como un ejemplo sin empresa identificada; se mantiene «Escenario», sin calificarlo de real. El ahorro económico se muestra como ≈40% y el tiempo liberado como 65%, en diapositivas independientes.
+Los cálculos y referencias están en `guion-y-notas.md` y en N. En Canva, las 2.500 postulaciones figuran como un ejemplo sin empresa identificada; se mantiene «Escenario», sin calificarlo de real. El bloque de tiempo muestra un 65% de dedicación liberada. En el bloque de dinero, el precio mensual de la plataforma es aproximadamente un 40% menor que el costo del filtro manual en el escenario. El precio de plataforma excluye la implementación y la dedicación restante de RR. HH.
 
 La diapositiva de demo es una pausa para abrir el producto; no incluye un video ni un enlace inventado.
 
