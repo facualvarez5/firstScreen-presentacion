@@ -1,12 +1,13 @@
 # Mejora FirstScreen — versión clara
 
-Presentación completa de 41 diapositivas. Fondo blanco con degradé celeste suave, texto oscuro y acentos azules. Sin números de página ni aclaraciones pequeñas en el lienzo.
+Presentación completa de 43 diapositivas. Fondo blanco con degradé celeste suave, texto oscuro y acentos azules. Sin números de página ni aclaraciones pequeñas en el lienzo.
 
 ## Abrir
 
 Descomprimí el ZIP y abrí `index.html` con doble clic en un navegador de escritorio. No necesitás instalar nada ni tener conexión a Internet.
 
-- Flechas o espacio: avanzar por los pasos.
+- Clic en la mitad derecha de la diapositiva para avanzar. Clic en la mitad izquierda para retroceder.
+- Flechas o espacio para moverte entre los pasos.
 - F: pantalla completa; acercá el puntero al borde inferior para ver controles.
 - G: índice.
 - N: notas de la diapositiva.

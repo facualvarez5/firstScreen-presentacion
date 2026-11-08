@@ -2,8 +2,8 @@
 
 **4. Cómo funciona.** Recorrido de la postulación a la decisión.
 **5–15. Tiempo.** Tareas del filtro manual, horas que requieren, demora de la vacante y tiempo recuperado con FirstScreen.
-**16–26. Dinero.** Costo del filtro manual, riesgo de una mala contratación, precio de la plataforma y planes.
-**27. Calidad.** Integridad de la entrevista.
+**16–25. Dinero.** Costo del filtro manual, riesgo de una mala contratación, planes y ejemplo de 2.500 postulaciones.
+**26–30. Mercado y calidad.** Llegada al mercado, trabajo con RR. HH., mejoras e integridad de la entrevista.
 
 ## 1. FirstScreen
 
@@ -21,11 +21,11 @@ Pausa para mostrar el producto real. Esta diapositiva no contiene una grabación
 
 Después de la demo, resumir cómo funciona el primer filtro: el equipo define criterios, FirstScreen entrevista y evalúa, y RR. HH. toma la decisión. A partir de ese proceso, vamos a mirar el mismo escenario desde dos ángulos: primero las horas del equipo y después el costo mensual.
 
-## 5. Tiempo · ¿En qué invierte su tiempo el equipo de RR. HH.?
+## 5. ¿En qué invierte su tiempo el equipo de RR. HH.?
 
 Abrir el bloque de tiempo con las tareas que ocupan a RR. HH. en el primer filtro manual. A continuación, cuantificar cuánto tiempo representan.
 
-## 6. Las tareas del primer filtro manual
+## 6. Se invierte tiempo en...
 
 Recorrer las tareas del filtro manual: leer los CV, repetir el cuestionario en las entrevistas iniciales y comparar respuestas. Después mostrar cuánto tiempo representan en el escenario.
 
@@ -50,7 +50,7 @@ Rango de la presentación original para el tiempo de cobertura de una vacante. N
 
 Volver al escenario de 2.500 postulaciones mensuales. Ahora calculamos el trabajo que sigue haciendo RR. HH. con FirstScreen y lo comparamos con las 312,5 horas del proceso manual.
 
-## 12. Dedicación de RR. HH. con FirstScreen
+## 12. ¿Cuánto tiempo recupera RRHH con FirstScreen?
 
 Fuente: Informe Final FirstScreen, Validación y Simulación de Escenarios de Ahorro. 2.500 postulaciones; 70% finaliza: 1.750 entrevistas. Revisión: 1.750 × 2 / 60 = 58,333 h. Excepciones: 10% de 1.750 = 175; 175 × 5 / 60 = 14,583 h adicionales. No completan: 750 × 3 / 60 = 37,5 h. Total sin redondear: 110,4167 h, presentado como 110,4 h/mes. Dedicación humana estimada, no duración de contratación. Los subtotales se redondean individualmente.
 
@@ -66,7 +66,7 @@ Conectar el beneficio con su propósito: destinar capacidad a entrevistas de may
 
 El equipo puede dedicar más tiempo a conocer a los candidatos preseleccionados, contactarlos antes y atender más búsquedas. Son usos posibles de las horas liberadas en el escenario.
 
-## 16. Dinero · ¿Cuánto cuesta el primer filtro?
+## 16. ¿Cuánto cuesta el primer filtro?
 
 Abrir el bloque de dinero con el costo del trabajo manual. Retomar las 312,5 horas del escenario de 2.500 postulaciones por mes y mostrar cuánto representan en dólares.
 
@@ -84,88 +84,96 @@ Dato conservado de la presentación original, no validado nuevamente en esta mig
 
 ## 20. ¿Cuánto cuesta la plataforma FirstScreen?
 
-Pasar de los problemas a la alternativa: con las mismas 2.500 postulaciones al mes, mostrar cómo se calcula el precio de la plataforma. El costo de una mala contratación es un riesgo aparte del costo mensual del filtro.
+Introducir cómo cobra FirstScreen. Primero mostrar los planes y qué incluye cada parte del precio. Después volver al escenario de 2.500 postulaciones por mes para aplicar esos valores.
 
-## 21. Costo mensual de la plataforma
-
-Fuente: Informe Final FirstScreen, sección Validación y Simulación de Escenarios de Ahorro, escenario 1. Empresa: 2.500 CV; finalización del 70%: 1.750 entrevistas. Distribución esperada: 50% texto, 35% voz y 15% video. Suscripción USD 499 + CV USD 250 + texto USD 481,25 + voz USD 612,50 + video USD 393,75 = USD 2.236,50. En pantalla se usa una suscripción de USD 500: total USD 2.237,50. Por postulación: 2.237,50 / 2.500 = USD 0,895, redondeado a USD 0,90 por postulación. Excluye implementación y trabajo humano restante. Las entrevistas fraccionarias son valores esperados presupuestarios. El informe estima 110,4 horas humanas restantes y un beneficio operativo neto aproximado de USD 243 mensuales; no confundir el costo de plataforma con el costo total del proceso.
-
-## 22. Precio de la plataforma frente al costo del filtro manual
-
-Para el mismo volumen de 2.500 postulaciones, el costo de plataforma es USD 2.237,50 por mes frente a USD 3.835 de trabajo manual. La diferencia es 41,7%, presentada como aproximadamente 40%. La comparación usa el precio de la plataforma y excluye la implementación y la dedicación restante de RR. HH. Si preguntan por el costo completo, 110,4 h × USD 12,27/h son aproximadamente USD 1.355 adicionales. El total modelado asciende a aproximadamente USD 3.592 mensuales antes de implementación.
-
-## 23. ¿Cómo se adapta el precio a cada equipo?
-
-Pasar del ejemplo de una empresa a los dos planes, empresas y consultoras, y a los importes de cada uno.
-
-## 24. Planes y precios de FirstScreen
+## 21. Cómo cobra FirstScreen
 
 Valores de la presentación original. Implementación: relevamiento del puesto, calibración de prompt y rúbricas de evaluación. Suscripción: infraestructura en la nube, almacenamiento seguro y mantenimiento. Consumo variable según modalidad y plan. El alcance por cantidad de posiciones no está explicitado en estas diapositivas; no inventarlo. No sumar estos importes al escenario de costos sin explicar primero sus supuestos.
 
-## 25. ¿Qué incluye cada parte del precio?
+## 22. ¿Qué incluye cada parte del precio?
 
 Después de la tabla, explicar qué cubre la implementación, qué cubre la suscripción y qué se cobra por consumo.
 
-## 26. Componentes del precio
+## 23. ¿Qué incluye cada parte del precio?
 
 Modelo SaaS híbrido basado en uso. Implementación: relevamiento, calibración de prompt y rúbricas. Suscripción: nube, almacenamiento seguro y mantenimiento. Consumo: USD 0,08–1,50 por CV procesado o entrevista completada, dependiendo de la modalidad y el plan. No presentar ese rango como tarifa única ni como costo interno de IA.
 
-## 27. Integridad de la entrevista
+## 24. Costo mensual de la plataforma
+
+Fuente: Informe Final FirstScreen, sección Validación y Simulación de Escenarios de Ahorro, escenario 1. Empresa: 2.500 CV; finalización del 70%: 1.750 entrevistas. Distribución esperada: 50% texto, 35% voz y 15% video. Suscripción USD 499 + CV USD 250 + texto USD 481,25 + voz USD 612,50 + video USD 393,75 = USD 2.236,50. En pantalla se usa una suscripción de USD 500: total USD 2.237,50. Por postulación: 2.237,50 / 2.500 = USD 0,895, redondeado a USD 0,90 por postulación. Excluye implementación y trabajo humano restante. Las entrevistas fraccionarias son valores esperados presupuestarios. El informe estima 110,4 horas humanas restantes y un beneficio operativo neto aproximado de USD 243 mensuales; no confundir el costo de plataforma con el costo total del proceso.
+
+## 25. Ahorro con FirstScreen
+
+Para el mismo volumen de 2.500 postulaciones, el costo de plataforma es USD 2.237,50 por mes frente a USD 3.835 de trabajo manual. La diferencia es 41,7%, presentada como aproximadamente 40%. La comparación usa el precio de la plataforma y excluye la implementación y la dedicación restante de RR. HH. Si preguntan por el costo completo, 110,4 h × USD 12,27/h son aproximadamente USD 1.355 adicionales. El total modelado asciende a aproximadamente USD 3.592 mensuales antes de implementación.
+
+## 26. ¿Cómo llegamos a nuestros clientes?
+
+Segmento inicial: organizaciones de contratación masiva y recurrente. Canales conservados del original: pilotos bonificados, venta directa B2B y alianzas con consultoras. Las frases de propósito explican esos canales, sin agregar resultados comerciales.
+
+## 27. ¿Cómo llegamos a nuestros clientes? · respuesta
+
+Segmento inicial: organizaciones de contratación masiva y recurrente. Canales conservados del original: pilotos bonificados, venta directa B2B y alianzas con consultoras. Las frases de propósito explican esos canales, sin agregar resultados comerciales.
+
+## 28. Diálogo con RRHH
+
+Casos de prueba confirmados por el equipo: Original Penguin, Paula Cahen D’Anvers y Green Grocery. Los nombres se toman de la imagen aportada; los logos quedan reservados para incorporar los oficiales. No se atribuyen contratos ni resultados comerciales. Mejoras: autocompletado al cargar CV, canales de contacto integrados y métricas específicas.
+
+## 29. ¿Qué mejoramos a partir del feedback?
+
+Casos de prueba confirmados por el equipo: Original Penguin, Paula Cahen D’Anvers y Green Grocery. Los nombres se toman de la imagen aportada; los logos quedan reservados para incorporar los oficiales. No se atribuyen contratos ni resultados comerciales. Mejoras: autocompletado al cargar CV, canales de contacto integrados y métricas específicas.
+
+## 30. Integridad de la entrevista
 
 Las alertas no equivalen a pruebas concluyentes. No afirmar que permiten detectar todo uso de IA o toda manipulación. Su propósito es aportar contexto y señalar entrevistas que requieren revisión.
 
-## 28. ¿Cómo llegamos a nuestros clientes?
+## 31. ¿Cómo fue construido FirstScreen?
 
-Segmento inicial: organizaciones de contratación masiva y recurrente. Canales conservados del original: pilotos bonificados, venta directa B2B y alianzas con consultoras. Las frases de propósito explican esos canales, sin agregar resultados comerciales.
+Presentamos la arquitectura, la organización del desarrollo y los desafíos y aprendizajes de FirstScreen.
 
-## 29. ¿Cómo llegamos a nuestros clientes? · respuesta
+## 32. Cómo fue construido FirstScreen · Arquitectura
 
-Segmento inicial: organizaciones de contratación masiva y recurrente. Canales conservados del original: pilotos bonificados, venta directa B2B y alianzas con consultoras. Las frases de propósito explican esos canales, sin agregar resultados comerciales.
-
-## 30. Diálogo con RRHH
-
-Casos de prueba confirmados por el equipo: Original Penguin, Paula Cahen D’Anvers y Green Grocery. Los nombres se toman de la imagen aportada; los logos quedan reservados para incorporar los oficiales. No se atribuyen contratos ni resultados comerciales. Mejoras: autocompletado al cargar CV, canales de contacto integrados y métricas específicas.
-
-## 31. Mejoras a partir del feedback
-
-Casos de prueba confirmados por el equipo: Original Penguin, Paula Cahen D’Anvers y Green Grocery. Los nombres se toman de la imagen aportada; los logos quedan reservados para incorporar los oficiales. No se atribuyen contratos ni resultados comerciales. Mejoras: autocompletado al cargar CV, canales de contacto integrados y métricas específicas.
-
-## 32. ¿Cómo fue construido FirstScreen?
-
-Diagrama conceptual, no topología de despliegue. React + TypeScript sirve el portal del candidato y el panel del reclutador. Se comunica por API HTTP con Go. Go concentra gestión de vacantes, entrevistas, evaluación y puntuación. PostgreSQL para persistencia, Amazon S3 para almacenamiento; OpenAI, Tavus/Daily y SMTP como servicios externos. Diseño hexagonal con separación de responsabilidades.
+A continuación: Arquitectura.
 
 ## 33. ¿Cómo fue construido FirstScreen? · respuesta
 
 Diagrama conceptual, no topología de despliegue. React + TypeScript sirve el portal del candidato y el panel del reclutador. Se comunica por API HTTP con Go. Go concentra gestión de vacantes, entrevistas, evaluación y puntuación. PostgreSQL para persistencia, Amazon S3 para almacenamiento; OpenAI, Tavus/Daily y SMTP como servicios externos. Diseño hexagonal con separación de responsabilidades.
 
-## 34. ¿Cómo organizamos el desarrollo?
+## 34. Cómo fue construido FirstScreen · Cómo organizamos el desarrollo
+
+A continuación: Cómo organizamos el desarrollo.
+
+## 35. ¿Cómo organizamos el desarrollo?
 
 Seguimos un enfoque incremental e iterativo, con ciclos de una semana. Validábamos los avances periódicamente con los directores mediante demostraciones técnicas y luego realizábamos reuniones internas para ajustar el rumbo. Para facilitar la incorporación de cambios y probar componentes de forma aislada, aplicamos principios de arquitectura hexagonal y separación de responsabilidades. Para sostener la calidad, seguimos un desarrollo guiado por pruebas y configuramos integración continua que ejecuta las pruebas automáticamente para detectar errores de forma temprana.
 
-## 35. Desafíos y aprendizajes
+## 36. Cómo fue construido FirstScreen · Desafíos y aprendizajes
+
+A continuación: Desafíos y aprendizajes.
+
+## 37. Desafíos y aprendizajes
 
 A lo largo del último año, no todo salió como habíamos planeado. Nos encontramos con desafíos que nos llevaron a tomar decisiones y ajustar el rumbo. En cada tarjeta, explicar el desafío, la decisión y el aprendizaje mediante una situación concreta. Riesgos y respuestas de la presentación original. No afirmar ausencia de sesgos ni seguridad absoluta. Explicar cómo cada decisión responde a un riesgo concreto: supervisión humana para evaluación con IA, acceso y almacenamiento seguro para datos, operación centralizada y optimización para presupuesto.
 
-## 36. ¿Por qué elegir FirstScreen?
+## 38. ¿Por qué elegir FirstScreen?
 
 Recapitular sin mezclar porcentajes: ahorro de tiempo, reducción del costo operativo, menor tiempo de contratación, evaluaciones estandarizadas y mayor capacidad de selección. Cada dimensión ya fue explicada en su propia diapositiva.
 
-## 37. ¿Por qué elegir FirstScreen? · respuesta
+## 39. ¿Por qué elegir FirstScreen? · respuesta
 
-Resumen de cinco beneficios, uno por avance: ahorro de tiempo; reducción de costos operativos; menor tiempo de contratación; evaluaciones estandarizadas; mayor capacidad de selección. Presentar los beneficios como potenciales y dependientes del escenario. El 65% corresponde a dedicación en el primer filtro, no al tiempo total de contratación. El ahorro monetario efectivo debe considerar el trabajo humano restante. Mantener la supervisión humana al explicar la estandarización.
+Cerrar con cuatro beneficios: ahorro de tiempo, reducción de costos operativos, menor tiempo de contratación y evaluaciones estandarizadas. El 65% se refiere a la dedicación de RR. HH. en el primer filtro del escenario.
 
-## 38. Nuestra promesa · cierre
+## 40. Nuestra promesa · cierre
 
 Frase central de apertura y cierre: “Encontramos al mejor candidato para tu posición, en el menor tiempo posible.”. Hacer una pausa para que se lea completa.
 
-## 39. Preguntas
+## 41. Preguntas
 
 Abrir espacio de preguntas. Usar el índice (G) para volver al escenario, precios o arquitectura según lo que pregunten.
 
-## 40. Agradecimientos
+## 42. Agradecimientos
 
 Agradecimientos conservados de la presentación original.
 
-## 41. Muchas gracias
+## 43. Muchas gracias
 
 Cierre y contacto del equipo. FIUBA · Universidad de Buenos Aires · 2026.
