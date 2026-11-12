@@ -46,15 +46,17 @@ Rango de la presentación original para el tiempo de cobertura de una vacante. N
 
 Rango de la presentación original para el tiempo de cobertura de una vacante. No es una promesa sobre la reducción que genera FirstScreen. Fuente original: https://www.iprofesional.com/management/381234-cuanto-tiempo-toma-a-las-empresas-cubrir-una-vacante-laboral . Se separa esta dimensión temporal del costo de desvinculación.
 
-## 11. ¿Cuánto tiempo recupera RRHH con FirstScreen?
+## 11. ¿Qué tareas hace FirstScreen en el primer filtro?
 
-Volver al escenario de 2.500 postulaciones mensuales. Ahora calculamos el trabajo que sigue haciendo RR. HH. con FirstScreen y lo comparamos con las 312,5 horas del proceso manual.
+Después del ejemplo manual, preguntar qué tareas hace FirstScreen. La siguiente diapositiva muestra qué hace la plataforma y qué sigue haciendo RR. HH.
 
-## 12. ¿Cuánto tiempo recupera RRHH con FirstScreen?
+## 12. Entrevistas iniciales y evaluaciones
+
+Para la práctica, explicar que FirstScreen hace las entrevistas iniciales y prepara las evaluaciones. RR. HH. revisa los resultados y decide quién avanza. Pasar a la siguiente diapositiva para mostrar el 65%.
 
 Fuente: Informe Final FirstScreen, Validación y Simulación de Escenarios de Ahorro. 2.500 postulaciones; 70% finaliza: 1.750 entrevistas. Revisión: 1.750 × 2 / 60 = 58,333 h. Excepciones: 10% de 1.750 = 175; 175 × 5 / 60 = 14,583 h adicionales. No completan: 750 × 3 / 60 = 37,5 h. Total sin redondear: 110,4167 h, presentado como 110,4 h/mes. Dedicación humana estimada, no duración de contratación. Los subtotales se redondean individualmente.
 
-## 13. ¿Cuánto tiempo recupera RRHH con FirstScreen? · respuesta
+## 13. Horas mensuales con y sin FirstScreen
 
 Escenario estimado del informe: 2.500 postulaciones mensuales. Manual: 312,5 horas; con FirstScreen: 110,4 horas humanas para revisión, excepciones y postulantes que no completan. Diferencia: 202,1 horas (64,7%, aproximadamente 65%). Son horas de dedicación de RRHH por mes, no duración de una contratación ni de una entrevista.
 
